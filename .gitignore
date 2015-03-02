@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#grunt modules
+node_modules/
+
+#sass cached/history
+.sass-cache/
